@@ -2,3 +2,4 @@ doc2dash
 sphinx
 sphinx-epytext
 PyMySQL
+mwparserfromhell

@@ -2,3 +2,4 @@ pywikibot-core
 venv
 
 *.docset
+*.tgz
